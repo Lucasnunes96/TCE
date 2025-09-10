@@ -1,0 +1,4 @@
+docxtpl
+pandas
+num2words
+openpyxl
